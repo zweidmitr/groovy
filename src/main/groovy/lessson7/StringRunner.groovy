@@ -1,4 +1,4 @@
-package groovy.com.dmdev.lessson7
+package lessson7
 
 /**
  * " "

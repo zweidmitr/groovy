@@ -1,4 +1,4 @@
-package groovy.com.dmdev.lesson10
+package lesson10
 
 class test {
     static void main(String[] args) {

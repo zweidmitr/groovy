@@ -1,4 +1,4 @@
-package groovy.com.dmdev.lesson10
+package lesson10
 
 class ConditionRunner {
     static void main(String[] args) {

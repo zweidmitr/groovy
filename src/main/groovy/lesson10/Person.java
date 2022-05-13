@@ -1,4 +1,4 @@
-package groovy.com.dmdev.lesson10;
+package lesson10;
 
 public class Person {
     private final Integer id;

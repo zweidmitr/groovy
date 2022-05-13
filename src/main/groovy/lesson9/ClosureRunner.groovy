@@ -1,4 +1,6 @@
-package groovy.com.dmdev.lesson9
+package lesson9
+
+
 
 import java.util.function.Function
 import java.util.stream.Stream
@@ -9,6 +11,7 @@ class ClosureRunner {
 //        def result = func.apply(5)
 //        println result
         println "1 =============="
+
         Closure closure = { value = 78 ->
             println value
             value + value

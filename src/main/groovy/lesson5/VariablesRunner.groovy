@@ -1,6 +1,6 @@
-package groovy.com.dmdev.lesson5
+package lesson5
 
-import groovy.transform.CompileStatic
+import groovy.transform.*
 
 @CompileStatic
 class VariablesRunner {
