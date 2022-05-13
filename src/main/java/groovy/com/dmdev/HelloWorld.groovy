@@ -1,4 +1,4 @@
-package com.dmdev
+package groovy.com.dmdev
 
 import groovy.transform.PackageScope
 

@@ -1,4 +1,4 @@
-package com.dmdev.lessson7.lesson6
+package groovy.com.dmdev.lessson7.lesson6
 
 assert 1 + 2 == 3
 assert 4 - 3 == 1

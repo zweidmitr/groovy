@@ -1,4 +1,4 @@
-package com.dmdev.lesson5
+package groovy.com.dmdev.lesson5
 
 import groovy.transform.CompileStatic
 

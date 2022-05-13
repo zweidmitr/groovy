@@ -1,4 +1,4 @@
-package com.dmdev.lesson8
+package groovy.com.dmdev.lesson8
 
 import java.util.regex.Matcher
 import java.util.regex.Pattern

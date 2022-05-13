@@ -1,4 +1,4 @@
-package com.dmdev.lesson9
+package groovy.com.dmdev.lesson9
 
 import java.util.function.Function
 import java.util.stream.Stream
